@@ -1,0 +1,14 @@
+name: Telemetry_time_bins
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+    - PySimpleGUI
+    - tqdm
+    - datetime
+    - numpy
+    - pandas
+    - openpyxl
+    - Jinja2
