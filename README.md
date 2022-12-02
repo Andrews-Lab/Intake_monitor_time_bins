@@ -1,22 +1,22 @@
-# Telemetry Time Bins 🐁
+# BioDaq Food and Water Intake Monitor Time Bins 🐁
 
 ### Overview
 
-__Kaha Sciences Mouse Telemetry System__
+__BioDaq Food and Water Intake Monitor__
 
-The [Kaha Sciences Mouse Telementry System](https://www.kahasciences.com/wireless-telemetry-overview/) allows signals like movement and temperature to be tracked over time when mice are in their home cages.
-This avoids the handling of mice, which inteferes with their natural physiological function.
+The [BioDaq Food and Water Intake Monitor](https://researchdiets.com/biodaq) allows food and water levels in each rodent cage to be measured at all times.
+This gives greater temporal resolution to food and water intake data, compared to data obatined through manual weighing.
 
 __Purpose__
 
-The .ASC output from the telemetry devices show the timestamps for temperature and locomotor activity values. This repository :
+The excel output from the telemetry devices show the timestamps for temperature and locomotor activity values. This repository :
 * Converts this output into a time binned file.
 * Separates the temperature and locomotor activity data into separate sheets. <br>
 
 __Preview of the graphical user interface__
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/101311642/204723125-195a911b-0c59-4b09-87cc-596405825e86.png" width="360">
+  <img src="https://user-images.githubusercontent.com/101311642/205285449-ec27c443-c094-4660-999e-f5159e5d0a20.png" width="360">
 </p><br/>
 
 __Input and output data__
