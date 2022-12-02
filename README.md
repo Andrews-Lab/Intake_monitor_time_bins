@@ -22,8 +22,8 @@ __Input and output data__
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/101311642/205290754-cb911936-6727-47ce-bef5-65f2e03f62c4.png" width="530">
-
-![image](https://user-images.githubusercontent.com/101311642/205290778-ba64a4a6-e492-4bb9-8248-488847fa3e0d.png)
+  
+![image](https://user-images.githubusercontent.com/101311642/205293547-c25ec302-dfec-4448-b23a-7f11335cf164.png)
 
 ### Installation
 
