@@ -21,7 +21,11 @@ __Preview of the graphical user interface__
 
 __Input and output data__
 
-![image](https://user-images.githubusercontent.com/101311642/204725203-df823a68-9194-43b6-b35e-528653baac58.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/101311642/205290754-cb911936-6727-47ce-bef5-65f2e03f62c4.png" width="530">
+</p><br/>
+
+![image](https://user-images.githubusercontent.com/101311642/205290778-ba64a4a6-e492-4bb9-8248-488847fa3e0d.png)
 
 ### Installation
 
