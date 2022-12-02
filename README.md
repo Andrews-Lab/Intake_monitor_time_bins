@@ -22,8 +22,8 @@ __Input and output data__
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/101311642/205290754-cb911936-6727-47ce-bef5-65f2e03f62c4.png" width="530">
-  
-![image](https://user-images.githubusercontent.com/101311642/205293547-c25ec302-dfec-4448-b23a-7f11335cf164.png)
+
+![image](https://user-images.githubusercontent.com/101311642/205293854-a98c4332-d0f3-4c95-9beb-17c0362e8082.png)
 
 ### Installation
 
@@ -75,5 +75,6 @@ __Credits:__ <br>
 Nikita Bajaj, Sarah Lockie, Zane Andrews <br>
 
 __About the labs:__ <br>
+The [Lockie lab](https://www.monash.edu/discovery-institute/lockie-lab) studies how hunger signalling in the brain drives mood-related behaviour, memory, motivation and metabolism in mouse models of disease.
 The [Andrews lab](https://www.monash.edu/discovery-institute/andrews-lab) investigates how the brain senses and responds to hunger. <br>
 The [Foldi lab](https://www.monash.edu/discovery-institute/foldi-lab) investigates the biological underpinnings of anorexia nervosa and feeding disorders. <br>
